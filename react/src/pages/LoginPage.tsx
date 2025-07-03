@@ -70,6 +70,8 @@ const LoginPage: React.FC = () => {
                     navigate('/Home')
                 } else {
                     sessionStorage.setItem('token', JSON.stringify(response));
+                    localStorage.setItem('token', JSON.stringify(response));
+
                     dispatch(log())
                     navigate('/Home')
 

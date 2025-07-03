@@ -17,9 +17,13 @@ export const AuthSlice = createSlice({
     reducers:{
         log: (state) => {
             state.isAuth = true;
+            localStorage.setItem("isAuth", "true");
+
         },
         logOut: (state) => {
             state.isAuth = false;
+            localStorage.setItem("isAuth", "false");
+
         }
     }
 })

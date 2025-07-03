@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91b78263-f4df-44b1-84fd-c7ef23405c60" name="Changes" comment="" />
+    <list default="true" id="91b78263-f4df-44b1-84fd-c7ef23405c60" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/react/src/model/Task.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/Store/slice/AuthSlice.ts" beforeDir="false" afterPath="$PROJECT_DIR$/react/src/Store/slice/AuthSlice.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/component/NavBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react/src/component/NavBar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/pages/Task.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/router.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react/src/router.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/service/apiClient.ts" beforeDir="false" afterPath="$PROJECT_DIR$/react/src/service/apiClient.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/service/userService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/react/src/service/userService.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +27,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dvish2003&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dvish2003/Task_Manag_Front_End.git&quot;,
+    &quot;accountId&quot;: &quot;d16afa2f-f296-4036-bfb9-06689b418f33&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -26,21 +50,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/vishan/Documents/OrderMartFrontEnd",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "/home/vishan/Documents/OrderMartFrontEnd/react/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vishan/Documents/OrderMartFrontEnd&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/vishan/Documents/OrderMartFrontEnd/react/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,6 +88,8 @@
       <workItem from="1750953112397" duration="8933000" />
       <workItem from="1751011785464" duration="6154000" />
       <workItem from="1751020113157" duration="294000" />
+      <workItem from="1751394657407" duration="5409000" />
+      <workItem from="1751459278457" duration="16532000" />
     </task>
     <servers />
   </component>
